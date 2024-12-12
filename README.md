@@ -114,12 +114,8 @@ waxma/ ├── waxma/ # Interface │ ├── manage.py # Commande principal
 ---
 
 ### Frontend
-
-- Pour effectuer un build pour la production :
-```npm run build```
-
 - Pour lancer l’application en mode production :
-```npm start```
+```npm run dev```
 
 
 ---
