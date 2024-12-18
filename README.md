@@ -24,7 +24,7 @@ Waxma est une application innovante qui utilise des images satellites et des mod
 ### 1️⃣ Cloner le projet
 
 - Exécutez la commande suivante dans votre terminal :
-```git clone https://github.com/votre-repo/waxma.git ```
+```git clone https://github.com/Gothouteno/waxma.git ```
 ```cd waxma```
 
 
